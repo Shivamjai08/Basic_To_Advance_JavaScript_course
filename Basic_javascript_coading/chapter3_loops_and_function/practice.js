@@ -1,0 +1,1 @@
+// write a programme  to print the marrks 
